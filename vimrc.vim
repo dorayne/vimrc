@@ -1,4 +1,3 @@
-Dorayne@ItsyBitsy ~ $ cat ~/.vimrc 
 " show line numbers
 set number
 " highlight current line
@@ -13,4 +12,3 @@ filetype indent on
 match ErrorMsg '\s\+$'
 " manage runtime path
 execute pathogen#infect()
-Dorayne@ItsyBitsy ~ $ 
